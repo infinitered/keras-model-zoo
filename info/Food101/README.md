@@ -103,4 +103,5 @@ waffles
 
 # Credits
 The Food 101 dataset - http://visiir.lip6.fr/explore
+
 Hosted on Kaggle - https://www.kaggle.com/dansbecker/food-101
