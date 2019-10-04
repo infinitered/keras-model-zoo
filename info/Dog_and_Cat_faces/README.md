@@ -13,6 +13,8 @@ plt.axis('off')
 plt.imshow((annotated ).astype('uint8'))
 ```
 
+![dog example](./dog1.png)
+
 # Credits
 Model was trained on the The Oxford-IIIT Pet Dataset.
 http://www.robots.ox.ac.uk/~vgg/data/pets/
