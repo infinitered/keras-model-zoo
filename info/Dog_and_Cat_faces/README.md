@@ -1,3 +1,7 @@
+# Input/Output
+* 256x256 RGB Image Tensor
+* Normalized (0 to 1) 4 corners of the pet face
+
 # Dogs and Cat Faces
 
 Green box is the predicted face, red box is the marked face.
