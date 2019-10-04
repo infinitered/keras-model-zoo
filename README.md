@@ -11,7 +11,7 @@ Ready to go, downloadable models for Keras
                 ,-( _   SS(_9)_|      _(")        | |/|/\|\|   ::   |  ,_   /  `
                / (_____;-.____;;    o(_,\\        | I I  I I    `   [|_/\\_]
 ```
-hosted with :heart: from Infinite Red
+hosted with :heart: from [Infinite Red](https://infinitered.webflow.io/ai-machine-learning)
 
 
 | Model | Description | Additional Info |
