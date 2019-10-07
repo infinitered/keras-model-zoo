@@ -17,7 +17,7 @@ plt.axis('off')
 plt.imshow((annotated ).astype('uint8'))
 ```
 
-![dog example](./dog1.png)
+![dog example](./dog1.png) ![dog example 2](./doggo.png)
 
 # Credits
 Model was trained on the The Oxford-IIIT Pet Dataset.
