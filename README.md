@@ -15,11 +15,11 @@ Ready to go, downloadable models for Keras
 
 hosted with :heart: from [Infinite Red](https://infinitered.webflow.io/ai-machine-learning)
 
-| Model                                                                             | Description                                        | Additional Info                                |
-| --------------------------------------------------------------------------------- | -------------------------------------------------- | ---------------------------------------------- |
-| [Food 101](https://s3.amazonaws.com/ir_public/ai/keras-zoo/food_101.h5)           | Classify 101 different types of food from an image | [Details](./info/Food101/README.md)            |
-| [Dog and Cat Faces](https://s3.amazonaws.com/ir_public/ai/keras-zoo/dnc_faces.h5) | Find those cute dog and cat faces in any photo     | [Examples](./info/Dog_and_Cat_faces/README.md) |
-| [MNIST](https://s3.amazonaws.com/ir_public/ai/keras-zoo/mnist.h5)                 | Classify single handwritten digits from 0 to 9     | [Details](./info/MNIST/README.md)              |
+| Model                                                  | Description                                        |
+| ------------------------------------------------------ | -------------------------------------------------- |
+| [Food 101](./info/Food101/README.md)                   | Classify 101 different types of food from an image |
+| [Dog and Cat Faces](/info/Dog_and_Cat_faces/README.md) | Find those cute dog and cat faces in any photo     |
+| [MNIST](./info/MNIST/README.md)                        | Classify single handwritten digits from 0 to 9     |
 
 ## How to Contribute
 
