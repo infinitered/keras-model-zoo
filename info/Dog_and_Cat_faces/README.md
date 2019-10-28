@@ -1,6 +1,15 @@
+# Description
+
+Find those cute dog and cat faces in any photo
+
+# Download
+
+https://s3.amazonaws.com/ir_public/ai/keras-zoo/dnc_faces.h5
+
 # Input/Output
-* 256x256 RGB Image Tensor
-* Normalized (0 to 1) 4 corners of the pet face
+
+- 256x256 RGB Image Tensor
+- Normalized (0 to 1) 4 corners of the pet face
 
 # Dogs and Cat Faces
 
@@ -20,5 +29,5 @@ plt.imshow((annotated ).astype('uint8'))
 ![dog example](./dog1.png) ![dog example 2](./doggo.png)
 
 # Credits
-Model was trained on the The Oxford-IIIT Pet Dataset.
-http://www.robots.ox.ac.uk/~vgg/data/pets/
+
+- Model was trained on the The Oxford-IIIT Pet Dataset: http://www.robots.ox.ac.uk/~vgg/data/pets/
