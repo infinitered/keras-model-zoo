@@ -13,7 +13,7 @@ Ready to go, downloadable models for Keras
                / (_____;-.____;;    o(_,\\        | I I  I I    `   [|_/\\_]
 ```
 
-hosted with :heart: from [Infinite Red](https://infinitered.webflow.io/ai-machine-learning)
+Originally built by [Infinite Red](https://infinite.red), a U.S.-based web and mobile development company.
 
 | Model                                                  | Description                                        |
 | ------------------------------------------------------ | -------------------------------------------------- |
